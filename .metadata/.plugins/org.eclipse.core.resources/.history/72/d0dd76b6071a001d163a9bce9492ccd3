@@ -1,0 +1,17 @@
+package org.test;
+
+import org.testng.annotations.DataProvider;
+
+public class DataProviderTest {
+
+	
+	@DataProvider(name="value")
+	public Object[][] getData {
+		
+		return new Object()[][] {
+			
+		};
+	}
+	
+	
+}

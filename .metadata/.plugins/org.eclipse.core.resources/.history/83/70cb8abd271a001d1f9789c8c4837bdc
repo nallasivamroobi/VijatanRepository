@@ -1,0 +1,25 @@
+package org.inspire;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class InspireBrands {
+
+	public WebDriver driver;
+	
+	
+	@Test
+	public void openBrowser()
+	{
+		System.setProperty("webdriver.chrome.driver", "D:\\Nalla\\TestRepository\\TestProject\\Drivers\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+		driver.get("https://inspirebrands.com/");
+	}
+	
+	
+}

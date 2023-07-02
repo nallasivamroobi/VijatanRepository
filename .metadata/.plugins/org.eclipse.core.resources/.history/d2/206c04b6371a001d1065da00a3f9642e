@@ -1,0 +1,12 @@
+package org.test;
+
+public class Test1 {
+
+	 
+ @Test
+ public void empty()
+ {
+	 System.out.println("nalla");
+ }
+	
+}

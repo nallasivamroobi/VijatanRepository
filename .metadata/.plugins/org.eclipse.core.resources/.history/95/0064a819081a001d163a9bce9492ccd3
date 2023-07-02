@@ -1,0 +1,28 @@
+package org.test;
+
+import java.util.Hashtable;
+
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+public class DataProviderTest {
+
+	
+	@DataProvider(name="value")
+	public Object[][] getData() {
+		
+		return new Object[][] {
+			{"nallasivam","roobini"},
+			{"Guna","Mithuna"}
+			
+		};
+	}
+	
+	
+	@Test(dataProvider="value")
+	public void inputEngine(Hashtable<String, String> h)
+	{
+		System.out.println(h);
+	}
+	
+}

@@ -1,0 +1,11 @@
+package org.test;
+
+public class Test2 {
+
+	
+	@Test
+	public void m255()
+	{
+		System.out.println("255555");
+	}
+}

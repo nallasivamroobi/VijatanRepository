@@ -1,0 +1,17 @@
+package org.inspire;
+
+import org.openqa.selenium.WebDriver;
+
+public class InspireBrands {
+
+	public WebDriver driver;
+	
+	
+	@Test
+	public void openBrowser()
+	{
+		
+	}
+	
+	
+}

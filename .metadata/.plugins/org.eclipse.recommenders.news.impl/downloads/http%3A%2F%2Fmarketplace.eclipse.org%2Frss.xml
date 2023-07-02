@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
+    <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;etools Mising name&quot;&gt;etools Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-16 14:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the speed and quality of new code development&lt;/li&gt;
+&lt;li&gt;Easily understand complex or poorly documented source code&lt;/li&gt;
+&lt;li&gt;Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
+&lt;li&gt;Accelerate language and methodology learning&lt;/li&gt;
+&lt;li&gt;Automatically generate well-organized source code documentation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+FEATURES  Some of the features that DVT offers include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Compilation errors signaled on the fly&lt;/li&gt;
+&lt;li&gt;Autocomplete / Content Assist&lt;/li&gt;
+&lt;li&gt;Customizable code and project templates&lt;/li&gt;
+&lt;li&gt;Dedicated wizards to generate getters and setters, override functions, or help with UVM factory registration&lt;/li&gt;
+&lt;li&gt;Hyperlinks&lt;/li&gt;
+&lt;li&gt;Semantic Search and Show Usages&lt;/li&gt;
+&lt;li&gt;Quick fixes / Autocorrect&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Macro expansion&lt;/li&gt;
+&lt;li&gt;Project database query views (types, macros, checks, etc.)&lt;/li&gt;
+&lt;li&gt;Structural views (type hierarchy, design hierarch, call hierarchy, etc.)&lt;/li&gt;
+&lt;li&gt;Signal tracing&lt;/li&gt;
+&lt;li&gt;UML and TLM diagrams for inspecting and documenting the verification environment&lt;/li&gt;
+&lt;li&gt;Schematic, trace, state machine diagrams for inspecting and documenting the design&lt;/li&gt;
+&lt;li&gt;Dedicated UVM support&lt;/li&gt;
+&lt;li&gt;Cross-language capabilities for mixed-language projects&lt;/li&gt;
+&lt;li&gt;In-line reminders for task tracking (TO DOs)&lt;/li&gt;
+&lt;li&gt;Vi and emacs emulation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;INTEGRATION WITH OTHER TOOLS Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;
+RESOURCES &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-eclipse-ide&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Web Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/datasheets/amiq_dvt_datasheet.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBx64n-99iZNiUJj_I8WkLLbRl8u0mi94&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-debugger&quot; rel=&quot;nofollow&quot;&gt;DVT Debugger Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+ <dc:creator>emisingname6ia</dc:creator>
+ <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss#comments</comments>
+  </item>
+  <item>
+    <title>Synopsys Code Sight</title>
+    <link>https://marketplace.eclipse.org/content/synopsys-code-sight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/SilicontoSoftware-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scodesight/listings&quot; title=&quot;Synopsys Code Sight&quot;&gt;Synopsys Code Sight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-02-15 16:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-16 10:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Synopsys%2C%20Inc%22&quot;&gt;Synopsys, Inc&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Upgrade Notice&lt;/strong&gt;: Upgrading from a 2021.8.1 or older version can show an error dialog, which is confusing. We strongly suggest you &lt;strong&gt;uninstall&lt;/strong&gt; your existing version of Code Sight and then install the latest Code Sight version.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://community.synopsys.com/s/article/How-to-resolve-errors-when-upgrading-Eclipse-from-Code-Sight-2021-8-1-or-earlier&quot; rel=&quot;nofollow&quot;&gt;Click here for more information&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The Synopsys® Code Sight™ plug-in identifies quality and security issues in your software while you code with Coverity SAST. It scans automatically, and highlights issues in the development environment so that you can fix them quickly.&lt;/p&gt;
+&lt;p&gt;In addition, Black Duck SCA enables users to view open source risk information for OSS libraries to ensure open source security and license compliance. Enhanced vulnerability data gives users detailed remediation guidance, including manual and auto-remediation functionality.&lt;/p&gt;
+&lt;p&gt;Connecting to a Synopsys server improves scan performance and enables your entire development team to collaborate to build secure, high-quality software, faster.&lt;/p&gt;
+&lt;p&gt;See what the plug-in looks like in our interactive demos:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ior.ad/6wOM&quot; rel=&quot;nofollow&quot;&gt;Code Sight Quick Tour with Coverity SAST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ior.ad/7nCy&quot; rel=&quot;nofollow&quot;&gt;Code Sight Quick Tour with Black Duck SCA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A functional Coverity license is required to run Code Sight with Coverity SAST, and a functional Black Duck license is required to run Black Duck SCA. Please check with your local administrator or contact &lt;a href=&quot;mailto:software-integrity-support@synopsys.com&quot; rel=&quot;nofollow&quot;&gt;software-integrity-support@synopsys.com&lt;/a&gt; to get access.&lt;/p&gt;
+&lt;p&gt;Documentation for Installation, Getting Started, etc. is available here: &lt;a href=&quot;https://sig-docs.synopsys.com/codesight&quot; rel=&quot;nofollow&quot;&gt;Code Sight Documentation&lt;/a&gt;&lt;br /&gt;
+Release announcements, Community forum, and Support Case creation are available here: &lt;a href=&quot;https://community.synopsys.com/s/code-sight-hub&quot; rel=&quot;nofollow&quot;&gt;Code Sight Community Portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By downloading the plug-in, you are agreeing to the &lt;a href=&quot;//www.synopsys.com/content/dam/synopsys/sig-assets/legal/eulm/2021-1/eEULM-(Americas-Africa-Israel)-v2021.1-Final.pdf&quot; rel=&quot;nofollow&quot;&gt;Synopsys End User License Agreement&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 Feb 2019 21:30:35 +0000</pubDate>
+ <dc:creator>scodesight</dc:creator>
+ <guid isPermaLink="false">4503269 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/synopsys-code-sight#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse2gDocs</title>
+    <link>https://marketplace.eclipse.org/content/eclipse2gdocs</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/Eclipse2GDocs_square.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/d1st/listings&quot; title=&quot;Daniel Schmid&quot;&gt;Daniel Schmid&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2022-08-14 10:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-16 04:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse2gDocs allows to mirror a file opened in Eclipse IDE to Google Docs.&lt;/p&gt;
+&lt;p&gt;YouTube-Video: &lt;a href=&quot;https://youtu.be/J-dq_YgBEh8&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/J-dq_YgBEh8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1XhXMDK3_mk&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Details can be found on GitHub: &lt;a href=&quot;https://github.com/danthe1st/Eclipse2gDocs&quot; rel=&quot;nofollow&quot;&gt;https://github.com/danthe1st/Eclipse2gDocs&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 14 Aug 2022 14:59:48 +0000</pubDate>
+ <dc:creator>d1st</dc:creator>
+ <guid isPermaLink="false">5549611 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/eclipse2gdocs#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>https://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;Andrey Panedrone&quot;&gt;Andrey Panedrone&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2022-08-15 07:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO, Model, and DAO/raw-SQL classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby, and Go. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;At the stage of code generation, the target database must exist and be available for JDBC connection. &quot;Live&quot; JDBC metadata are used to synchronize generated code with the current database schema.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>Spring Tools 4 (aka Spring Tool Suite 4)</title>
+    <link>https://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sts4-marketplace-icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-07-11 12:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2022-08-12 05:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VMware%22&quot;&gt;VMware&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Spring Tools 4&lt;/h2&gt;
+&lt;p&gt;Spring Tools 4 is the next generation of Spring tooling for your favorite coding enrivonment. Largely rebuilt from scratch, it provides world-class support for developing Spring-Boot-based enterprise applications, whether you prefer Eclipse, Visual Studio Code, or Atom IDE.&lt;/p&gt;
+&lt;h3&gt;Getting Started&lt;/h3&gt;
+&lt;p&gt;Spring Tool Suite 4 makes it easy to get started. A direct and easy-to-use integration of the Spring Initializr and the famous Spring Guides allows you to go from nothing to a running Spring Boot app in seconds.&lt;/p&gt;
+&lt;h3&gt;Navigate your Spring code at the speed of light&lt;/h3&gt;
+&lt;p&gt;Understanding and quickly navigating source code is essential for coding. The new Spring Tools 4 understands your Spring-Boot-based source code and allows you to quickly get an overview and navigate to the important pieces of your Spring apps. Finding Spring elements and navigating to them has never been easier.&lt;/p&gt;
+&lt;h3&gt;Smart Code Editing&lt;/h3&gt;
+&lt;p&gt;Code completion is a critical part of working with source code. The all-new Spring Tools 4 provides smart code completions for the Spring elements in your app.&lt;/p&gt;
+&lt;h3&gt;Runtime Information In Your Editor&lt;/h3&gt;
+&lt;p&gt;Spring Tools 4 now bridges the gap between your source code and running Spring Boot applications. By taking advantage of the Spring Boot Actuators, we enriched the source code with detailed information from the running app (e.g., exact bean wiring information, conditional reports, configuration, details, and more).&lt;/p&gt;
+&lt;h3&gt;Not working with Spring Boot yet and looking for the old Spring Tool Suite 3?&lt;/h3&gt;
+&lt;p&gt;Not yet working with Spring Boot, but looking for tooling for your regular Spring projects? As long as the all-new Spring Tools 4 do not support non-boot Spring projects, please refer to the previous generation of Spring Tools for Eclipse, also known as Spring Tool Suite 3 or Spring IDE, you should look at the &quot;Spring Tools 3 Add-On&quot; entry in the marketplace here: &lt;a href=&quot;https://marketplace.eclipse.org/content/spring-tools-3-add-aka-spring-tool-suite-3&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/spring-tools-3-add-aka-spring-tool-suite-3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Jul 2014 16:41:17 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">1794107 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4#comments</comments>
+  </item>
+  <item>
+    <title>Protector4J</title>
+    <link>https://marketplace.eclipse.org/content/protector4j</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2022-08-11 22:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Protect Java Code from Decompilation by Encrypting the Java Classes, beyond Obfuscation.&lt;/p&gt;
+&lt;p&gt;Support JavaSE App, Tomcat Web App, Spring Boot App, GlassFish App, Payara App and Java 8, Java 11 Environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guide of installation of eclipse plugin: &lt;a href=&quot;https://protector4j.com/docs/eclipse-plugin/&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com/docs/eclipse-plugin/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;After installed, please click Window -&amp;gt; Show View-&amp;gt;Other..., then find the Protector4J View in the dialog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Documention: &lt;a href=&quot;https://protector4j.com/docs/get-started&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com/docs/get-started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Site: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Jun 2017 09:41:40 +0000</pubDate>
+ <dc:creator>ylin0gf</dc:creator>
+ <guid isPermaLink="false">3513853 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/protector4j#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>https://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2022-08-11 12:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;GDT requires Eclipse Java Development Tools (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). &lt;strong&gt;If your Eclipse flavor does not include JDT, you must install it first.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, please consider the Groovy-Grails Tools Suite or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>OpenAPI (Swagger) Editor</title>
+    <link>https://marketplace.eclipse.org/content/openapi-swagger-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/OpenAPIEditor_Symbol_110x80px.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dsotnikov/listings&quot; title=&quot;42Crunch Platform&quot;&gt;42Crunch Platform&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-11-11 14:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2022-08-10 13:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%2242Crunch%22&quot;&gt;42Crunch&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Provides support for editing the &lt;a href=&quot;https://github.com/OAI/OpenAPI-Specification&quot; rel=&quot;nofollow&quot;&gt;OpenAPI&lt;/a&gt; files (formerly known as Swagger). See &lt;a href=&quot;https://github.com/42Crunch/eclipse-openapi/blob/master/README.md&quot; rel=&quot;nofollow&quot;&gt;documentation&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Supports versions 2.x and 3.x of OpenAPI.&lt;/li&gt;
+&lt;li&gt;Supports both YAML and JSON formats.&lt;/li&gt;
+&lt;li&gt;Outline view&lt;/li&gt;
+&lt;li&gt;Go to Definition for $refs&lt;/li&gt;
+&lt;li&gt;Integrates with &lt;a href=&quot;https://docs.42crunch.com/latest/content/concepts/api_contract_security_audit.htm&quot; rel=&quot;nofollow&quot;&gt;API Contract Security Audit&lt;/a&gt; by 42Crunch, to check the quality of API definition.&lt;/li&gt;
+&lt;li&gt;Code snippets to add paths, operations, components, security&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 11 Nov 2020 19:37:53 +0000</pubDate>
+ <dc:creator>dsotnikov</dc:creator>
+ <guid isPermaLink="false">5293076 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/openapi-swagger-editor#comments</comments>
+  </item>
+  <item>
+    <title>Java 19 Support for Eclipse 2022-09 (4.25)</title>
+    <link>https://marketplace.eclipse.org/content/java-19-support-eclipse-2022-09-425</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jarthanaree/listings&quot; title=&quot;Jay Arthanareeswaran&quot;&gt;Jay Arthanareeswaran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-09 01:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-09 09:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Foundation%22&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This marketplace solution provides Java 19 support for Eclipse 2022-05 (4.26). To install the feature place ensure you have the latest Eclipse release, which is 4.25.&lt;/p&gt;
+&lt;p&gt;You can also install this feature from the following p2 update site directly:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/updates/4.25-P-builds/&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/updates/4.25-P-builds/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Installation can be verified by creating a java project with default execution environment as Java-19.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Aug 2022 05:42:50 +0000</pubDate>
+ <dc:creator>jarthanaree</dc:creator>
+ <guid isPermaLink="false">5548474 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/java-19-support-eclipse-2022-09-425#comments</comments>
+  </item>
+  <item>
+    <title>iSphere for RDi 9.5.1.3+</title>
+    <link>https://marketplace.eclipse.org/content/isphere-rdi-9513</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/isphere_marketplace.jpg&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/traddatz/listings&quot; title=&quot;Thomas Raddatz&quot;&gt;Thomas Raddatz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-01-10 16:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-08-09 07:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22iSphere%20Project%20Team%22&quot;&gt;iSphere Project Team&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;iSphere is an open source plug-in for IBM&#039;s Rational Developer for i 9.5.1.3+. It delivers high quality extensions to improve developer productivity.&lt;/p&gt;
+&lt;p&gt;IBM&#039;s current Eclipse based Integrated Development Environment (IDE) is a huge step beyond SEU, but it still lacks features available only on the green screen. That is where the iSphere Project comes into play, filling in those gaps.&lt;/p&gt;
+&lt;p&gt;Feature list:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Binding Directory Editor&lt;/li&gt;
+&lt;li&gt;Data Area Editor&lt;/li&gt;
+&lt;li&gt;User Space Editor&lt;/li&gt;
+&lt;li&gt;Data Queue Viewer&lt;/li&gt;
+&lt;li&gt;Message File Editor&lt;/li&gt;
+&lt;li&gt;Message File Compare Editor&lt;/li&gt;
+&lt;li&gt;Message File Search&lt;/li&gt;
+&lt;li&gt;Source File Search&lt;/li&gt;
+&lt;li&gt;Source Compare/Merge Editor&lt;/li&gt;
+&lt;li&gt;Stream File Search&lt;/li&gt;
+&lt;li&gt;Stream File Compare/Merge Editor&lt;/li&gt;
+&lt;li&gt;Spooled Files Subsystem&lt;/li&gt;
+&lt;li&gt;Lpex Task Tags&lt;/li&gt;
+&lt;li&gt;Host Object Decorator&lt;/li&gt;
+&lt;li&gt;RSE Filter Manager&lt;/li&gt;
+&lt;li&gt;Message Subsystem and Monitor&lt;/li&gt;
+&lt;li&gt;Job Log Explorer&lt;/li&gt;
+&lt;li&gt;Journal Explorer&lt;/li&gt;
+&lt;li&gt;Job Trace Explorer&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;iSphere is an Open Source project that is hosted on &lt;a href=&quot;https://sourceforge.net/projects/isphere/&quot; rel=&quot;nofollow&quot;&gt;Source Forge&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 10 Jan 2017 21:11:59 +0000</pubDate>
+ <dc:creator>traddatz</dc:creator>
+ <guid isPermaLink="false">3248963 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/isphere-rdi-9513#comments</comments>
+  </item>
+  </channel>
+</rss>
